@@ -1,0 +1,6 @@
+bokeh
+pandas
+numpy
+typing
+opencv-python
+holoviews
