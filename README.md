@@ -1,2 +1,2 @@
 # Data-Visualization
-This repository deals with data visualization using the libraries Bokeh &amp; HoloViews
+This repository deals with data visualization plots using Python, Bokeh &amp; HoloViews.
